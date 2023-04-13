@@ -28,7 +28,7 @@ function Projects() {
               title="VikBot"
               description="University Chat Bot using NLP techniques which would answer general queries about the presidency university asked by the students and parents"
               ghLink="https://github.com/mdsarfraz2002/University-Chat-Bot"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://drive.google.com/file/d/1_HqjYEGAYbpxoFElISh5m_zSSLGhGxZg/view?usp=sharing/"
             />
           </Col>
 
@@ -36,15 +36,14 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Kitchen Night"
+              description="Hotel reservation website with login credentials using HTML for frontend, CSS for styling & PHP for Database. Hosted on free hosting site 000webhostapp"
+              ghLink="https://github.com/mdsarfraz2002/Hotel-Reservation/"
+              demoLink="https://miniprojecthotel.000webhostapp.com/"
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
+          {/* <Col md={4} className="project-card">
               imgPath={editor}
               isBlog={false}
               title="Editor.io"
@@ -52,9 +51,9 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"              
             />
-          </Col>
+          </Col> */}
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card"> 
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
@@ -63,9 +62,9 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
-          </Col>
+          </Col>*/}
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card"> 
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
@@ -74,9 +73,9 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
-          </Col>
+          </Col>*/}
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card"> 
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
@@ -86,7 +85,7 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col>
+          </Col>*/}
         </Row>
       </Container>
     </Container>
