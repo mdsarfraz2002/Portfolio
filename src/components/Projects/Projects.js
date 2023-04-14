@@ -54,16 +54,16 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card"> 
+           <Col md={4} className="project-card"> 
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/mdsarfraz2002/Data_analysis_netflix_project"
-              demoLink="https://app.datacamp.com/workspace/w/2b28fd36-92da-4e87-9acd-20db7e19274c"
+              title="Tensorflow"
+              description="utilizing TensorFlow's powerful Fashion Library to explore the latest trends and styles in the fashion industry. Leveraging the capabilities of machine learning"
+              ghLink="https://github.com/mdsarfraz2002/Ai_ml_projects"
+              demoLink="https://colab.research.google.com/github/mdsarfraz2002/Ai_ml_projects/blob/main/computer_vision_AIML.ipynb"
             />
-          </Col>*/}
+          </Col>
 
           {/* <Col md={4} className="project-card"> 
             <ProjectCard
