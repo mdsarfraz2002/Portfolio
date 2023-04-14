@@ -28,12 +28,11 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are &nbsp;
+              My field of interest lies in &nbsp;
               <i>
-                <b className="purple">Processing a raw data into a beautifully visualized insights </b> and
-                also in areas related to{" "}
+                <b className="purple">processing raw data into beautiful visualizations</b> and also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Deep Learning </b> and<b className="purple"> Natural Launguage Processing.
                 </b>
               </i>
               <br />

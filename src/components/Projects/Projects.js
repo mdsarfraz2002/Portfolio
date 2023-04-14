@@ -43,26 +43,16 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
-              imgPath={editor}
-              isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
-            />
-          </Col> */}
-
-          {/* <Col md={4} className="project-card"> 
+           <Col md={4} className="project-card"> 
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Investigating Netflix Movie"
+              description="Netflix! they have been performing some analyses, and they believe that the average duration of movies has been declining. So we take 10 years of data and verify it"
+              ghLink="https://github.com/mdsarfraz2002/Data_analysis_netflix_project"
+              demoLink="https://app.datacamp.com/workspace/w/2b28fd36-92da-4e87-9acd-20db7e19274c"
             />
-          </Col>*/}
+          </Col>
 
           {/* <Col md={4} className="project-card"> 
             <ProjectCard
@@ -70,8 +60,8 @@ function Projects() {
               isBlog={false}
               title="Ai For Social Good"
               description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              ghLink="https://github.com/mdsarfraz2002/Data_analysis_netflix_project"
+              demoLink="https://app.datacamp.com/workspace/w/2b28fd36-92da-4e87-9acd-20db7e19274c"
             />
           </Col>*/}
 
