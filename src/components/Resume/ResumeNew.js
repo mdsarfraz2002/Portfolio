@@ -29,7 +29,7 @@ function ResumeNew() {
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
-            &nbsp;Download CV
+            &nbsp;Click to Veiw
           </Button>
         </Row>
 

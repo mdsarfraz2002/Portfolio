@@ -90,7 +90,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://mdsarfraz.vercel.app//"
+                href="https://crimeandpunishmentinindia.wordpress.com/"
                 target="_blank"
                 rel="noreferrer"
               >
