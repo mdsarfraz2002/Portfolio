@@ -10,6 +10,7 @@ function Type() {
           "AI Engineer",
           "Deep Learning Engineer",
           "Gamer....",
+          "Playboy..call me daddy"
         ],
         autoStart: true,
         loop: true,
