@@ -48,7 +48,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Investigating Netflix Movie"
-              description="Netflix! they have been performing some analyses, and they believe that the average duration of movies has been declining. So we take 10 years of data and verify it"
+              description="Netflix! they have been performing some analysis, and they believe that the average duration of movies has been declining. So we take 10 years of data and verify it"
               ghLink="https://github.com/mdsarfraz2002/Data_analysis_netflix_project"
               demoLink="https://app.datacamp.com/workspace/w/2b28fd36-92da-4e87-9acd-20db7e19274c"
             />
