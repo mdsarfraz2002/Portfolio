@@ -25,12 +25,6 @@ function ResumeNew() {
     <div>
       <Container fluid className="resume-section">
         <Particle />
-        {/* <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button variant="primary" href={pdf} target="_blank" style={{ maxWidth: "250px" }}>
-            <AiOutlineDownload />
-            &nbsp;Click to View
-          </Button>
-        </Row> */}
 
         <Row className="resume">
           <Document file={resumeLink} onLoadError={handleError} className="d-flex justify-content-center">
@@ -41,7 +35,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button variant="primary" href={pdf} target="_blank" style={{ maxWidth: "250px" }}>
             <AiOutlineDownload />
-            &nbsp;Download CV
+            &nbsp;Download Resume
           </Button>
         </Row>
       </Container>
