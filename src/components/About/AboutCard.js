@@ -34,10 +34,11 @@ function AboutCard() {
           <br/>
           <br/>
           <br/>
+          <center>
           <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
-          Internship<strong className="purple"Experience></strong>
+          <strong className="purple">Internship</strong> Experience
           </h1>
-
+          </center>
         </blockquote>
       </Card.Body>
     </Card>
