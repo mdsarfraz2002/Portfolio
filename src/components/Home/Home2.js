@@ -19,14 +19,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I'm a computer science graduate from Presidency University with a focus on data science.
-            Boasting a commendable CGPA of 8.01, I furthered my expertise during my internship at OLA, optimizing AI models and addressing technical challenges.
-            My innovative streak is evident in projects like VKIBOT, a Python and React-based chatbot.
-            Proficient in languages such as Java, Python, and C/C++, 
-            I also showcased my leadership by securing third place in an IIT Kanpur national hackathon.
-            Additionally, I'm an active contributor to the FORGE-Data Science Club and a proud volunteer of the National Service Scheme. 
-            With my blend of technical knowledge and initiative, I'm set to make notable contributions to the tech world.
-              
+            I graduated with a degree in <span className="purple">computer science</span> from Presidency University, specializing in <span className="purple">data science.</span>
+            With a strong CGPA of 8.01, I expanded my knowledge during an <span className="purple">internship at OLA</span>, where I worked on optimizing AI models and tackling technical challenges.
+            I've demonstrated innovation through <span className="purple">projects like VKIBOT</span>, a chatbot developed using Python and React.
+            Skilled in languages like <span className="purple">Java, Python, and R</span>,
+            I also earned recognition by securing <span className="purple">third place in a national hackathon hosted by IIT Kanpur</span>.
+            Beyond academics, I'm an active member of the <span className="purple">FORGE-Data Science Club</span> and volunteer for the <span className="purple">National Service Scheme</span>. 
+            With this blend of <span className="purple">technical prowess and dedication</span>, I'm poised to contribute significantly to the tech industry
             </p>
           </Col>
           <Col md={4} className="myAvtar">
