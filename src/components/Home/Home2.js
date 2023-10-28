@@ -20,12 +20,12 @@ function Home2() {
             </h1>
             <p className="home-about-body">
             <span>
-            I graduated with a degree in <span className="purple">computer science</span> from Presidency University, specializing in <span className="purple">data science.</span>
-            With a strong CGPA of 8.01, I expanded my knowledge during an <span className="purple">internship at OLA</span>, where I worked on optimizing AI models and tackling technical challenges.
-            I've demonstrated innovation through <span className="purple">projects like VKIBOT</span>, a chatbot developed using Python and React.
-            Skilled in languages like <span className="purple">Java, Python, and R</span>,
-            I also earned recognition by securing <span className="purple">third place in a national hackathon hosted by IIT Kanpur</span>.
-            Beyond academics, I'm an active member of the <span className="purple">FORGE-Data Science Club</span> and volunteer for the <span className="purple">National Service Scheme</span>. 
+            I graduated with a degree in <span className="purple">computer science</span> from Presidency University, specializing in <span className="purple">data science. </span>
+            With a strong CGPA of 8.01.<br/>I expanded my knowledge during an <span className="purple">internship at OLA</span>, where I worked on optimizing AI models and tackling technical challenges.<br/>
+            I've demonstrated innovation through <span className="purple">projects like VKIBOT</span>, a chatbot developed using Python and React.<br/>
+            Skilled in languages like <span className="purple">Java, Python, and R</span><br/>
+            I also earned recognition by securing <span className="purple">third place in a national hackathon hosted by IIT Kanpur</span>.<br/>
+            Beyond academics, I'm an active member of the <span className="purple">FORGE-Data Science Club</span> and volunteer for the <span className="purple">National Service Scheme</span>.<br/>
             With this blend of <span className="purple">technical prowess and dedication</span>, I'm poised to contribute significantly to the tech industry
             </span>
             </p>
