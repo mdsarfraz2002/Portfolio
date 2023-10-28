@@ -12,13 +12,11 @@ function AboutCard() {
             from <span className="purple"> Bengaluru, India.</span>
             <br/>
             <br/>
-            <br/>
             <p style={{ color: "rgb(155 126 172)" }}>
             "There is always one more bug to fix."{" "}
           </p>
           <footer className="blockquote-footer">Ellen Ullman</footer>
             <br />
-            <br/>
             Apart from coding, some other activities that I <span className="purple">love to do!</span>
           </p>
           <ul>
