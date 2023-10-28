@@ -30,15 +30,6 @@ function AboutCard() {
               <ImPointRight /> Travel
             </li>
           </ul>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <center>
-          <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
-          <strong className="purple">Internship</strong> Experience
-          </h1>
-          </center>
         </blockquote>
       </Card.Body>
     </Card>
