@@ -10,14 +10,16 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hello, I am <span className="purple">Md Sarfraz Alam</span>, <span className="purple">21 </span>
             from <span className="purple"> Bengaluru, India.</span>
-            <br />
+            <br/>
+            <br/>
+            <br/>
             <p style={{ color: "rgb(155 126 172)" }}>
             "There is always one more bug to fix."{" "}
           </p>
           <footer className="blockquote-footer">Ellen Ullman</footer>
             <br />
             <br/>
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I <span className="purple">love to do!</span>
           </p>
           <ul>
             <li className="about-activity">
