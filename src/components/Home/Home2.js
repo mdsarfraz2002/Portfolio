@@ -19,32 +19,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with Data and I try to bring meaning out of it🤓
-              
-              <br />
-              <br />I am fluent in
-              <i>
-                <b className="purple"> C++, Java and Python. </b>
-              </i>
-              <br />
-              <br />
-              My field of interest lies in &nbsp;
-              <i>
-                <b className="purple">processing raw data into beautiful visualizations</b> and also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning </b> and<b className="purple"> Natural Launguage Processing.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Tensorflow</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  OpenCV
-                </b>
-              </i>
+            I'm a computer science graduate from Presidency University with a focus on data science.
+            Boasting a commendable CGPA of 8.01, I furthered my expertise during my internship at OLA, optimizing AI models and addressing technical challenges.
+            My innovative streak is evident in projects like VKIBOT, a Python and React-based chatbot.
+            Proficient in languages such as Java, Python, and C/C++, 
+            I also showcased my leadership by securing third place in an IIT Kanpur national hackathon.
+            Additionally, I'm an active contributor to the FORGE-Data Science Club and a proud volunteer of the National Service Scheme. 
+            With my blend of technical knowledge and initiative, I'm set to make notable contributions to the tech world.
               
             </p>
           </Col>
