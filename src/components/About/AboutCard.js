@@ -32,9 +32,12 @@ function AboutCard() {
           </ul>
           <br/>
           <br/>
-          <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-            <strong className="purple">Experience</strong>
-            </h1>
+          <br/>
+          <br/>
+          <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
+          Internship<strong className="purple"Experience></strong>
+          </h1>
+
         </blockquote>
       </Card.Body>
     </Card>
