@@ -19,15 +19,16 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            <span>
-            I graduated with a degree in <span className="purple">Computer Science</span> from Presidency University, specialization in <span className="purple">Data Science. </span>
-            <br/>I expanded my knowledge during an <span className="purple">internship at OLA</span>, where I worked on optimizing AI models and tackling technical challenges.<br/>
-            I've demonstrated innovation through projects like <span className="purple">VIKBOT</span>, a chatbot developed using Python and React.<br/>
-            Skilled in languages like <span className="purple">Java, Python, and R</span><br/>
-            I also earned recognition by securing <span className="purple">Third place</span> in a <span className="purple">national hackathon</span> hosted by <span className="purple">IIT Kanpur</span>.<br/>
-            Beyond academics, I'm an active member of the <span className="purple">FORGE-Data Science Club</span> and volunteer for the <span className="purple">National Service Scheme</span>.<br/>
-            With this blend of <span className="purple">technical prowess & dedication</span>, I'm poised to contribute significantly to the tech industry
-            </span>
+           <span>
+              I hold a degree in <span className="purple">Computer Science</span> from Presidency University, specializing in <span className="purple">Data Science</span>.<br/>
+              During my internship at <span className="purple">OLA</span>, I worked on optimizing AI models and overcoming technical challenges.<br/>
+              I’ve also built projects like <span className="purple">VIKBOT</span>, a chatbot developed with Python and React.<br/>
+              Skilled in <span className="purple">Java, Python, and R</span>, I secured <span className="purple">third place</span> in a <span className="purple">national hackathon</span> hosted by <span className="purple">IIT Kanpur</span>.<br/>
+              As an active member of the <span className="purple">FORGE-Data Science Club</span> and volunteer for the <span className="purple">National Service Scheme</span>, I bring a blend of technical expertise and commitment.<br/>
+              I'm excited to contribute to the tech industry with my passion and skills.
+          </span>
+
+
             </p>
           </Col>
           <Col md={4} className="myAvtar">
