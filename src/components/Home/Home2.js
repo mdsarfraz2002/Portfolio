@@ -19,17 +19,17 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-           <span>
-              I hold a degree in <span className="purple">Computer Science</span> from Presidency University, specializing in <span className="purple">Data Science</span>.<br/>
-              During my internship at <span className="purple">OLA</span>, I worked on optimizing AI models and overcoming technical challenges.<br/>
-              I’ve also built projects like <span className="purple">VIKBOT</span>, a chatbot developed with Python and React.<br/>
-              Skilled in <span className="purple">Java, Python, and R</span>, I secured <span className="purple">third place</span> in a <span className="purple">national hackathon</span> hosted by <span className="purple">IIT Kanpur</span>.<br/>
-              As an active member of the <span className="purple">FORGE-Data Science Club</span> and volunteer for the <span className="purple">National Service Scheme</span>, I bring a blend of technical expertise and commitment.<br/>
-              I'm excited to contribute to the tech industry with my passion and skills.
-          </span>
+            <span>
+              I am a <span className="purple">Software Developer</span> with over 1 year of experience in building scalable tools, data pipelines, and AI-driven solutions.<br/>
+              <br></br>
+              My journey includes developing impactful tools and AI solutions at organizations like <span className="purple">Krutrim</span> and <span className="purple">OLA</span>, designing robust data pipelines, and solving complex technical challenges.<br/>
+              <br></br>
+              Additionally, I secured third place in a national hackathon hosted by <span className="purple">IIT Kanpur</span>, showcasing my problem-solving skills. <br/>
+              Passionate about innovation, I aim to drive impactful solutions in the tech industry.
+            </span>
+          </p>
 
 
-            </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
