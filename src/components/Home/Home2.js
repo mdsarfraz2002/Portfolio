@@ -19,17 +19,22 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            <span>
-              I am a <span className="purple">Software Developer</span> with over 1 year of experience in building scalable tools, data pipelines, and AI-driven solutions.<br/>
-              <br></br>
-              My journey includes developing impactful tools and AI solutions at organizations like <span className="purple">Krutrim</span> and <span className="purple">OLA</span>, designing robust data pipelines, and solving complex technical challenges.<br/>
-              <br></br>
-              Additionally, I secured third place in a national hackathon hosted by <span className="purple">IIT Kanpur</span>, showcasing my problem-solving skills. <br/>
-              Passionate about innovation, I aim to drive impactful solutions in the tech industry.
-            </span>
-          </p>
-
-
+              <span>
+                I am a <span className="purple">Software Developer</span> with over 1 year of experience in building scalable tools, data pipelines, and AI-driven solutions.<br />
+                <br />
+                My journey includes developing impactful AI solutions and internal tools at <span className="purple">Krutrim</span> and <span className="purple">OLA</span>, where I designed robust pipelines and solved complex engineering problems.<br />
+                <br />
+                Recently, I have worked on building a Smart Router microservice to handle LLM request routing across multiple providers like <span className="purple">OpenAI, Groq, AWS Bedrock, and Anthropic</span> using intelligent fallback and load-balancing logic.<br />
+                <br />
+                I’ve also developed alerting and monitoring systems using <span className="purple">New Relic, PagerDuty, and Slack</span> to detect model failures, trigger escalations, and maintain high availability.<br />
+                <br />
+                Additionally, I built real-time voice transcription systems using WebSockets and <span className="purple">FastAPI</span>, integrated <span className="purple">GCP Custom Search API</span> as a fallback search mechanism, and optimized backend systems using <span className="purple">MongoDB, PostgreSQL JSON, and Kubernetes</span>.<br />
+                <br />
+                I secured third place in a national hackathon hosted by <span className="purple">IIT Kanpur</span>, demonstrating my problem-solving and quick prototyping capabilities.<br />
+                <br />
+                Passionate about innovation, I strive to create scalable and efficient solutions that drive meaningful impact.
+              </span>
+            </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
